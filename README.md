@@ -62,6 +62,8 @@ Temitope longe - Software Engineer / Front End Developer
 
 Temitayo Jegede -Project Assistant
 
+Tobi Akintunlese - Python Research 
+
 Tolulade Ademiosye - DataOps Lead & Project Co-ordinator
 
 # Contact us: academy@reispartechnologies.com.ng 
