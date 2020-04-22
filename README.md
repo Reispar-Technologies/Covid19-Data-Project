@@ -51,9 +51,17 @@ WHO - https://covid19.who.int/
 
 John Hopkins University, USA https://coronavirus.jhu.edu/map.html
 
+Among several other international organisations
+
 ## Project Contributors
 Aminu Israel - Data Scientist & API programmer
+
 Joseph Omuta- Data Analyst - Visualisation
+
 Temitope longe - Software Engineer / Front End Developer
+
 Temitayo Jegede -Project Assistant
+
 Tolulade Ademiosye - DataOps Lead & Project Co-ordinator
+
+# Contact us: academy@reispartechnologies.com.ng 
