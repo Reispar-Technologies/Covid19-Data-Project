@@ -44,3 +44,16 @@ https://app.powerbi.com/view?r=eyJrIjoiZTJkNTNhMWYtZjdiNC00NzBkLThiYmItNDg5NDYxM
 # South America 
 https://app.powerbi.com/view?r=eyJrIjoiYmE0ZTU5YzUtYmIzNi00YzA0LTk4MjMtNzRiZmNjMTY4NTgwIiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
 
+## Data Sources
+Worldometers - https://www.worldometers.info/coronavirus/
+
+WHO - https://covid19.who.int/ 
+
+John Hopkins University, USA https://coronavirus.jhu.edu/map.html
+
+## Project Contributors
+Aminu Israel - Data Scientist & API programmer
+Joseph Omuta- Data Analyst - Visualisation
+Temitope longe - Software Engineer / Front End Developer
+Temitayo Jegede -Project Assistant
+Tolulade Ademiosye - DataOps Lead & Project Co-ordinator
