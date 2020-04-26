@@ -23,3 +23,15 @@ https://reisparcovid19.herokuapp.com?continent=southamerica
 
 Oceania
 https://reisparcovid19.herokuapp.com?continent=oceania
+
+Time Series Recovered 
+https://reisparcovid19.herokuapp.com/timeseries?query=recovered
+
+Time Series Deaths
+https://reisparcovid19.herokuapp.com/timeseries?query=death 
+
+Time Series Confirmed
+https://reisparcovid19.herokuapp.com/timeseries?query=confirmed
+
+Time Series Overview
+https://reisparcovid19.herokuapp.com/timeseries?query=overview
