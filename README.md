@@ -6,7 +6,7 @@ This is the Visual data repository for the 2019 Novel Coronavirus Visual Dashboa
 
 Reispar Academy is glad to bring this project idea into fruition on the Corona virus case. This project is a Live Analytics Web application on the Covid-19 across the globe.
 
-It combines the distinct skills of Data Science, Data Analytics, Programming, DataOps and Project Management into one web application. 
+It combines the distinct skills of Data Science, Data (Business) Analytics, Programming, DataOps and Project Management into one web application. 
 
 The core objective of this web application is to aid in good governance by making live data available for both private and government agencies, individuals, institutions and businesses across the world.
 
