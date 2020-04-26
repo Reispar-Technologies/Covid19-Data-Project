@@ -6,7 +6,7 @@ This is the Visual data repository for the 2019 Novel Coronavirus Visual Dashboa
 
 Reispar Academy is glad to bring this project idea into fruition on the Corona virus case. This project is a Live Analytics Web application on the Covid-19 across the globe.
 
-It combines the distinct skills of Software Engineering, Data Science, Data Analytics, Programming, DataOps and Project Management into one web application. 
+It combines the distinct skills of Data Science, Data Analytics, Programming, DataOps and Project Management into one web application. 
 
 The core objective of this web application is to aid in good governance by making live data available for both private and government agencies, individuals, institutions and businesses across the world.
 
@@ -22,39 +22,41 @@ https://documenter.getpostman.com/view/9033557/SzezcrVF
 ## Visual Dashboard:
 
 # The World- 
-https://app.powerbi.com/view?r=eyJrIjoiYTI0YzYzNjQtOGQyMy00ZjQ3LWFhYmEtMTZjNTI0NGYwZmEyIiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
+https://app.powerbi.com/view?r=eyJrIjoiNjQyODZhNmItZWEzMy00MzQwLTgwNDUtODJlMTkwYmQ3YmZkIiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
 
 ## Continents Dashboard:
 
 # Africa:
-https://app.powerbi.com/view?r=eyJrIjoiOWU4N2VhNzItZDA5Mi00M2NmLTlmNDMtZDExMjMwMTQ1ZWRlIiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
+https://app.powerbi.com/view?r=eyJrIjoiMWUxN2Q1N2QtYThlYy00NGYxLTlmYWYtNjUxYjJhM2RkNzI2IiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
 
 # Asia 
-https://app.powerbi.com/view?r=eyJrIjoiZTVhMDVjNWMtZTI2ZS00Y2JlLWJlMWEtYTRkMWVhOGNlNTEyIiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9 
+https://app.powerbi.com/view?r=eyJrIjoiODdlZmVmYWUtMDMyNi00ZTc5LWIwMDMtZDVkOTcyNmI2OWFmIiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
 
 # Europe
-https://app.powerbi.com/view?r=eyJrIjoiYzU2YjUzNWMtMTE1Yi00MTNkLTllOTEtOTY4MzUzYjg2YjY5IiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
+https://app.powerbi.com/view?r=eyJrIjoiOGY0N2E4OGQtOGZhZi00N2Y0LWJhZDgtZWMxYTU0OGRlNDhmIiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
 
 # North America
-https://app.powerbi.com/view?r=eyJrIjoiZTliYTE1ZTQtMmY4Ni00YmVhLTg0MDctZWRiNjkxY2Y5NTU1IiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
+https://app.powerbi.com/view?r=eyJrIjoiOTA5MGJiZWItZTI0ZC00ZDEyLThhMWYtYTkxZDZkY2Q3NWE3IiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
 
 # Oceania
-https://app.powerbi.com/view?r=eyJrIjoiZTJkNTNhMWYtZjdiNC00NzBkLThiYmItNDg5NDYxMWFlYWUzIiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
+https://app.powerbi.com/view?r=eyJrIjoiOWY0N2JkZGEtZmU3YS00ZWFkLWFmNTQtY2JhNzY4MmRiNTNiIiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
 
 # South America 
-https://app.powerbi.com/view?r=eyJrIjoiYmE0ZTU5YzUtYmIzNi00YzA0LTk4MjMtNzRiZmNjMTY4NTgwIiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
+https://app.powerbi.com/view?r=eyJrIjoiY2Q5Y2MyNjQtNDY1ZC00Y2ZkLTgyNzUtYTI3ZTc3OGMzOTI1IiwidCI6ImFiZjIwNTg3LWM0Y2MtNGUyZC1iYThhLTViY2M1NWVkMmRkYyJ9
 
 ## Data Sources
 Worldometers - https://www.worldometers.info/coronavirus/
 
 WHO - https://covid19.who.int/ 
 
+Our World in Data - https://ourworldindata.org/coronavirus-source-data
+
 John Hopkins University, USA https://coronavirus.jhu.edu/map.html
 
 Among several other international organisations
 
 ## Project Contributors
-Aminu Israel - Data Scientist & API programmer
+Aminu Israel - Data Scientist & Backend Developer
 
 Joseph Omuta- Data Analyst - Visualisation
 
