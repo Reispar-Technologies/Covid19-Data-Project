@@ -15,7 +15,7 @@ The web application is based on an API, which we are making open and available t
 The team working on this project operated remotely to deliver it.
 
 The API technology scraps data from the source site at an interval of 7 minutes. 
-
+----
 For more analysis and research using our API, see more details on the API documentation website:
 https://documenter.getpostman.com/view/9033557/SzezcrVF 
 
