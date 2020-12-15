@@ -72,5 +72,3 @@ Tolulade Ademiosye - DataOps Lead & Project Co-ordinator
 ## Terms and Condition
 This project is strictly developed for the open-source community and the world during this pandemic, therefore our API is available for educational and related purposes and not for profit. For further development and other terms kindly reach out to our team at Reispar.
 
-
-# Contact us: academy@reispartechnologies.com.ng 
